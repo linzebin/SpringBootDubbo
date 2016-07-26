@@ -1,4 +1,4 @@
-# SpringBootDubbo
+# SpringBoot +　Dubbo
 SpringBoot + Dubbox
 
 因为dubbox没有提供mvn远程仓库的下载,所以需要到https://github.com/dangdangdotcom/dubbox 进行下载  
